@@ -1,0 +1,10 @@
+name: my_shiny_app
+title:
+username:
+account: karimatouati
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 252867
+bundleId: 1157927
+url: https://karimatouati.shinyapps.io/my_shiny_app/
+when: 1514828446.27357
